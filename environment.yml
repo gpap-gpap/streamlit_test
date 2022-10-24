@@ -1,0 +1,10 @@
+name: test-streamlit
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - scikit-learn=1.0
+  - pip
+  - pip:
+    - -r requirements.txt
+prefix: /anaconda3/envs/python38
