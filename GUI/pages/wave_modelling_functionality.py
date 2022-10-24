@@ -1,5 +1,4 @@
 import streamlit as st
-from mantis import reflectivity as mts_refl
 
 def app():
     st.title('wavefield modeller')

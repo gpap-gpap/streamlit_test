@@ -1,5 +1,4 @@
 import streamlit as st
-from mantis import interface as mts_in
 
 def app():
     st.title('interface modeller')
