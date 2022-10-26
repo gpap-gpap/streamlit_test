@@ -11,5 +11,6 @@ scipy
 seaborn
 streamlit
 streamlit-option-menu==0.3.2
+streamlit_option_menu
 xarray
 rich
