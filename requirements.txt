@@ -13,4 +13,4 @@ seaborn
 streamlit
 xarray
 rich
-jinja2==3.0.0
+jinja2
