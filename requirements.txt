@@ -1,9 +1,9 @@
-streamlit-option-menu==0.3.2
+streamlit-option-menu
 black
 flake8
-Markdown==3.3.4
+Markdown
 MarkupSafe
-matplotlib==3.5.2
+matplotlib
 matplotlib-inline
 mypy
 numpy
