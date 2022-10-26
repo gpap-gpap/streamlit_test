@@ -1,3 +1,5 @@
+streamlit-option-menu==0.3.2
+streamlit_option_menu
 black
 flake8
 Markdown==3.3.4
@@ -10,7 +12,5 @@ pandas
 scipy
 seaborn
 streamlit
-streamlit-option-menu==0.3.2
-streamlit_option_menu
 xarray
 rich
