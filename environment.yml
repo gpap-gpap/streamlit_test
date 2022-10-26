@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.8
   - scikit-learn=1.0
+  - streamlit-option-menu==0.3.2
   - pip
   - pip:
     - -r requirements.txt
