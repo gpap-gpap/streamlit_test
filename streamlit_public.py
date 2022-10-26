@@ -3,7 +3,7 @@ st.set_page_config(
     page_title="Mantis - phasor",
     layout="wide"
 )
-from streamlit_option_menu import option_menu
+from streamlit-option-menu import option_menu
 from matplotlib import style 
 style.use(['dark_background', './test.mplstyle'])
 from GUI.pages import rock_physics_functionality
