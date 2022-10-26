@@ -13,3 +13,4 @@ seaborn
 streamlit
 xarray
 rich
+jinja2
